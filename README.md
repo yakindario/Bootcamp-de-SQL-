@@ -4,8 +4,8 @@ Este repositorio contiene la solución al proyecto final del Bootcamp de SQL de 
 
 Contenido:
 
-1. [Proyecto Final en Ipynb](Proyecto_Final__Bootcamp_sql.ipynb.ipynb)
+1. [Proyecto Final en Ipynb](Proyecto_Final__Bootcamp_sql.ipynb)
 2. [Proyecto Final en PDF](Proyecto_Final__Bootcamp_sql.pdf)
-3. [Base de Datos](hotel.db)
+3. [Proyecto de Google Colab](https://drive.google.com/file/d/1ZNaq4Z_ovH7dYBmCSwyo05xhGiRbInMY/view?usp=sharing)
 
 
